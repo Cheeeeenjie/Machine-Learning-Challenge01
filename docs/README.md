@@ -2,27 +2,6 @@
 
 Ricardo FERNANDEZ | Sarra MAHMOUDI | Chenjie QIAN | Soumiya RAZZOUK | Daniel TERAN
 
-[**Dataset understanding	2**](#_1njcabnzri8r)**
-
-[General Description of the dataset    1 page	2](#_jsykrcfwemv6)
-
-[Feature definition	2](#_muf0vmek1z0b)
-
-[● Correlation matrix	2](#_mjpz4dxz491y)
-
-[● Nominal analysis	2](#_e64hzryrlmuk)
-
-[**3. Data preparation :	3**](#_1euqvij5ezz2)
-
-[a. Cleaning error data	3](#_d7jfg86810rp)
-
-[**4. Data modeling :	4**](#_bp7wzru90b6y)
-
-[a. PCA:	4](#_v73l285b5d4l)
-
-[**CONCLUSION	7**](#_ucxundgadm4d)
-
-
 # <a name="_1njcabnzri8r"></a>**Dataset understanding** 
 
 ## <a name="_jsykrcfwemv6"></a>**General Description of the dataset    1 page**
