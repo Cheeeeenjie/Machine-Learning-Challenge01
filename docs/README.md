@@ -23,7 +23,6 @@ Ricardo FERNANDEZ | Sarra MAHMOUDI | Chenjie QIAN | Soumiya RAZZOUK | Daniel TER
 [**CONCLUSION	7**](#_ucxundgadm4d)
 
 
-# <a name="_svjf4fryg0kw"></a>**
 # <a name="_1njcabnzri8r"></a>**Dataset understanding** 
 
 ## <a name="_jsykrcfwemv6"></a>**General Description of the dataset    1 page**
@@ -95,19 +94,19 @@ Nevertheless, through the use of these two different methods, we can still draw 
 
 For the clustering analysis, we experimented different approaches : 
 
-`   `Elbow Method for determining the optimal number of clusters.
+- Elbow Method for determining the optimal number of clusters.
 
 
 
 For the clustering analysis, we experimented with two different approaches:
 
-`   `Elbow Method for determining the optimal number of clusters.
+- Elbow Method for determining the optimal number of clusters.
 
-`   `Agglomerative Clustering.
+- Agglomerative Clustering.
 
-`   `Dendrogram visualization.
+- Dendrogram visualization.
 
-`   `DBScan method with parameters eps=4 and min\_samples=4.
+- DBScan method with parameters eps=4 and min\_samples=4.
 
 ![](Aspose.Words.1d26d8e6-b3b8-4257-b292-161509febe2a.010.png)
 
